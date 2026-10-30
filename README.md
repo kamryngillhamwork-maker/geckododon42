@@ -1,2 +1,2 @@
 # geckododon42
-the repository for my personal website
+This is essentially me working through moving my personal site into independent storage and hosting. I want to make sure I actually own all my files.
